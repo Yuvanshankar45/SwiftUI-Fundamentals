@@ -4,3 +4,6 @@ This Weather App UI project showcases a user interface (UI) built using SwiftUI 
 
 
 ![Simulator Screenshot - iPhone 14 Pro - 2023-09-25 at 07 30 04](https://github.com/Yuvanshankar45/SwiftUI-Fundamentals/assets/105915567/a0ece417-d6ab-4925-b947-3feda57c03e0)
+
+
+![Simulator Screenshot - iPhone 14](https://github.com/Yuvanshankar45/SwiftUI-Fundamentals/assets/105915567/a0044391-5973-45ca-9178-1b1af680c57b)
